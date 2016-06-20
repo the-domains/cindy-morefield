@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cindy Morefield]]></title>
         <description><![CDATA[Cindy Morefield]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cindy-morefield/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 19:42:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 19:52:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cindy-morefield/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b44ffcc3-5740-45c7-9636-287768f01d31.jpg">]]></description>
+            <link>https://thegrid.ai/cindy-morefield/tumble-wax-pastel-on-polypropylene-48-x-30-in/index.html</link>
+            <guid isPermaLink="false">a01438b1-040d-4c1a-a682-8611e9d4a95b</guid>
+            <pubDate>Mon, 20 Jun 2016 19:52:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Res 13-05]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3334f129-30fe-42e4-ab80-786013e0242a.jpg">]]></description>
-            <link>undefinedres-13-05/index.html</link>
+            <link>https://thegrid.ai/cindy-morefield/res-13-05/index.html</link>
             <guid isPermaLink="false">b020c9cc-f41d-4fec-b494-16e322f012ad</guid>
             <pubDate>Mon, 20 Jun 2016 19:42:13 GMT</pubDate>
         </item>
